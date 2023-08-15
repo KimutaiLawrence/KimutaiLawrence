@@ -1,14 +1,11 @@
-- 👋 Hi, I’m @KimutaiLawrence
-- 👀 I’m interested in programming, machine-learning and data science. Geospatial Data Science and Remote Sensing | Geospatial developer | Python | R | JavaScript | SQL | #ArcGIS | #earthengine | AI/ML | Freelance +254759629059 #gischat
+- 👋 Hi, I’m Lawrence
+- 👀 I’m interested in programming, machine-learning and data science.
+-  Geospatial Data Science and Remote Sensing | Geospatial developer | Python | R | JavaScript | SQL | #ArcGIS | #earthengine | AI/ML | Freelance +254759629059 #gischat
 - 🌱 I’m currently learning at DeKut
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me -lawrencekimutai09@gmail.com
 
-- ### Hi there 👋
-
 -Get to know more about me.
-
- 
  ## Languages and Tools
  
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 
@@ -45,7 +42,7 @@ src="https://geoplaza.vu.nl/cms/wp-content/uploads/2021/09/Logo_ArcMap_transpare
 ## Reach Me At:
 
 - 💬 Ask me about Python, JavaScript, Geospatial AI /ML
-- 📫 How to reach me: on Twitter [@lawrence_kim_](https://twitter.com/lawrence_kim_) or [@email](lawrencekimutai09@gmail.com) on email
+- 📫 How to reach me: on Twitter [@lawrence_kim_](https://twitter.com/lawrence_kim_) or [@lawrencekimutai09@gmail.com](lawrencekimutai09@gmail.com) on email
 
 
 
