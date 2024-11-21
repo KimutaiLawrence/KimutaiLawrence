@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lawrence
 - 👀 I’m interested in programming, machine-learning and data science.
 -  Geospatial Data Science and Remote Sensing | Geospatial developer | Python | R | JavaScript | SQL | #ArcGIS | #earthengine | AI/ML | Freelance +254759629059 #gischat
-- 🌱 I’m currently learning at DeKut
-- 💞️ I’m looking to collaborate on data science
+- 🌱 I’m currently a Software Engineer at Ramani
+- 💞️ I’m looking to collaborate on data science, AI/ML and Web Development
 - 📫 How to reach me -lawrencekimutai09@gmail.com
 
 -Get to know more about me.
