@@ -51,9 +51,6 @@ I'm a passionate geospatial developer and data scientist with expertise in build
 
 ## Featured Projects
 
-- **Undergraduate Research Assistant Notebook:**  
-  My notebook (`DSAIL_Application_Lawrence.ipynb`) demonstrates foundational data science and geospatial analysis skills developed during my undergraduate research assistantship.
-
 - **Web GIS & Geospatial Apps:**  
   I build interactive web GIS solutions using Vue.js, Tailwind CSS, Flask, and integrate spatial data workflows with Python and R.
 
